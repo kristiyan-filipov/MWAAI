@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+httpx
+firebase-admin
+openai
+dotenv
+pinecone
+sphinx
